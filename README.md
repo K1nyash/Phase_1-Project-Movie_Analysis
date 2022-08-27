@@ -30,3 +30,8 @@ I selected this datasets because of the original_language, popularity, vote_aver
 Chosen because of the movie_ratings and movie basics tables within the sql database.
 
 All metrics of success met.
+https://github.com/K1nyash/Phase_1-Project-Movie_Analysis/blob/main/Movie_Project.ipynb
+
+https://github.com/K1nyash/Phase_1-Project-Movie_Analysis/blob/main/Movie_Analysis_writeup.pdf
+
+https://github.com/K1nyash/Phase_1-Project-Movie_Analysis/blob/main/Movie_Project.ipynb :
